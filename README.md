@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/pramodpawar11/pramodpawar11/blob/main/header.svg" alt="my banner"></a>
+</p>
 <br>
 
 ## 😄 About Me
