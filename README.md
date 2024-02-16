@@ -5,6 +5,7 @@
 - 🌱 I am currently learning React,Node and related technologies.
 - 🔭 I am currently working on different personal projects and learning new stuff.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💗 Love to talk about Research and Innovation!
 
   
 <p align="center">
