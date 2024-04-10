@@ -11,7 +11,7 @@
 
   
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/pramodpawar1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Pramod Pawar | LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/pramodpawar15/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Pramod Pawar | LinkedIn"/></a>
 </p>
 
 <br>
